@@ -1,0 +1,9 @@
+.exercise-nav-links {
+    list-style-type: none;
+    display:inline-block;
+    padding: 2px;
+}
+
+.exercise-nav-list {
+    padding: 0;
+}
